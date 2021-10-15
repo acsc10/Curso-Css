@@ -1,0 +1,32 @@
+/* 
+h1{
+    color:blue;
+        text-align: right; 
+        font-size: 100px;
+} */
+
+/* *{
+    background-color: ivory;
+}
+#titulo{
+    color: crimson;
+    text-align: center;
+}
+.rojo{
+    color: crimson;
+    text-align: center;
+}
+.azul{
+    color: blue;
+    text-align: center;
+} */
+
+/* agrupar selectores css id */
+/* h1, h2 , p{
+    color: crimson;
+} */
+
+/* subclasses en css. example p.centrar solo funciona en los elementos p que contengan la clase centrar */
+p.centrar{
+    text-align: center; 
+}

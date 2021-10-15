@@ -1,0 +1,20 @@
+h1{
+    color: crimson;
+    text-align: center;
+}
+div.contenedor{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid gold;
+    padding: 15px;
+    color: blue;
+    text-align: center;
+}
+img{
+    opacity: 0.5;
+}
+
+img:hover{
+    opacity: 1.0;
+}

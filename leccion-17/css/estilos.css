@@ -1,0 +1,28 @@
+html{
+    height: auto;
+    min-height: 100%;
+}
+body{
+    /* background: linear-gradient(#f72585 , #3a0ca3); */
+    /* background: linear-gradient(to right, #f72585 , #3a0ca3); */
+    /* background: linear-gradient(to right, #f72585 , #3a0ca3); */
+    /* background: linear-gradient(#24404d, #6dbff1 , black); */
+        /* background: linear-gradient(-45deg, #ff7c00 0%, #c7097e); */
+        background: radial-gradient(circle,black, #42a5f5);
+
+}
+
+
+
+h1{
+
+    text-align: center;
+}
+div.contenedor{
+    width: 30%;
+    height: 20%;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    border: 3px solid #a8dadc;
+}

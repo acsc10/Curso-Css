@@ -1,0 +1,23 @@
+
+
+h1{
+    text-align: center;
+    color:#e63946;
+}
+
+.caja1{
+    padding: 5px;
+    border: 1px solid blue;
+    margin: 30px;
+    background-color: #f1faae;
+    max-width: 300px;
+    box-sizing: border-box;
+}
+.caja2{
+    padding: 5px;
+    border: 1px solid blue;
+    margin: 20px;
+    background-color: #f1faae;
+    max-width: 300px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: crimson;
+    
+}
+
+div.contenedor{
+
+    width: 80%;
+    height: 20%;
+    overflow: auto;
+    margin: auto;
+    border: 3px dashed firebrick
+    
+}
+
+span{
+    color:lemonchiffon;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+    background-color: #a8ada8;
+    height: 50px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.menu{
+    list-style: none;
+    text-align: center;
+}
+
+.menu li{
+    display: inline-block;
+    padding: 15px;
+    margin: 20px;
+    background-color:  DarkViolet;
+    border-radius: 5px;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}

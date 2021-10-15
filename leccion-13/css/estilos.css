@@ -1,0 +1,28 @@
+h1{
+    color: crimson;
+    text-align: center;
+}
+div.contenedor{
+    width: 80%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid gold;
+    padding: 15px;
+    color: blue;
+}
+
+div.contenedor.descendiente p{
+    background-color: #fdffb6;
+}
+
+div.contenedor.hijo > p{
+background-color: #ffc6b6;
+
+}
+div.contenedor.adyacente + p{
+background-color: cornflowerblue;
+}
+
+div.contenedor.hermano ~ p{
+    background-color:pink;
+}
